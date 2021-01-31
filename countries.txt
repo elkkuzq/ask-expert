@@ -1,0 +1,57 @@
+Intia/Delhi
+Kiina/Peking
+Ranska/Pariisi
+Argentiina/Buenos Aires
+Egypti/Kairo
+Suomi/Helsinki
+Saksa/Berlin
+Usa/Washington
+Portugali/Lissabon
+Ruotsi/Tukholma
+Norja/Oslo
+Italia/Rooma
+Espanja/Madrid
+Englanti/Lontoo
+Iso-Britannia/Lontoo
+Yhdysvallat/Washington
+Japani/Tokio
+San Marino/San Marino
+Serbia/Belgrad
+Seychellit/Victoria
+Sierra Leone/Freetown
+Singapore/kaupunkivaltio
+Slovakia/Bratislava
+Slovenia/Ljubljana
+Somalia/Mogadishu
+Sri Lanka/Colombo
+Sudan/Khartum
+Suomi/Helsinki
+Suriname/Paramaribo
+Swazimaa/Mbabane
+Sveitsi/Bern
+Syyria/Damaskos
+Tadžikistan/Dušanbe
+Taiwan/Taipei
+Tanska/Kööpenhamina
+Thaimaa/Bangkok
+Togo/Lomé
+Tonga/Nukuʻalofa
+Trinidad/Port of Spain
+Tšad/N’Djamena
+Tšekki/Praha
+Tunisia/Tunis
+Turkki/Ankara
+Turkmenistan/Ašgabat
+Uganda/Kampala
+Ukraina/Kiova
+Unkari/Budapest
+Uruguay/Montevideo
+Uusi-Seelanti/Wellington
+Uzbekistan/Taškent
+Valko-Venäjä/Minsk
+Vanuatu	Port/Vila
+Venezuela/Caracas
+Venäjä/Moskova
+Vietnam/Hanoi
+Viro/Tallinna
+Romania/Bukarest
